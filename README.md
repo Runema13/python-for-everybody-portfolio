@@ -14,7 +14,7 @@ Este portfólio reúne todos os códigos, exercícios e projetos finais realizad
 | 2️⃣ | [Python Data Structures](https://www.coursera.org/learn/python-data) | [🔗 GitHub](https://github.com/Runema13/python-data-structures) | [📜 Certificado](https://www.coursera.org/account/accomplishments/verify/F21Q5OW8LKZO) |
 | 3️⃣ | [Accessing Web Data](https://www.coursera.org/learn/python-network-data) | [🔗 GitHub](https://github.com/Runema13/python-accessing-web-data) | [📜 Certificado](https://www.coursera.org/account/accomplishments/verify/VTRVJ7GNHV85) |
 | 4️⃣ | [Using Databases with Python](https://www.coursera.org/learn/python-databases) | [🔗 GitHub](https://github.com/Runema13/python-databases) | [📜 Certificado](https://www.coursera.org/account/accomplishments/verify/YZWMC8QQ6P91)|
-| 5️⃣ | [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-data-visualization) | [🔗 GitHub](https://github.com/Runema13/python-data-visualization) | [📜 Certificado]((https://www.coursera.org/account/accomplishments/specialization/20LE0S2QU2D9)) |
+| 5️⃣ | [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-data-visualization) | [🔗 GitHub](https://github.com/Runema13/python-data-visualization) | [📜 Certificado](https://www.coursera.org/account/accomplishments/specialization/20LE0S2QU2D9) |
 
 ---
 
